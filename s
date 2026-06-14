@@ -8,7 +8,7 @@ https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8
 https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv3-manifest.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 TÃ¢y Nam Bá»™
 https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
